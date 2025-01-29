@@ -24,5 +24,8 @@ git config --global user.email salomon.cruz@uabc.edu.mx
 ```
 
 ```
+git commit -m "Comentario"
+
+```
 git push
 ```
