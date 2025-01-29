@@ -30,3 +30,14 @@ git commit -m "Comentario"
 ```
 git push
 ```
+
+```
+git checkout -b unidad1
+
+Crea la rama y me cambia a ella
+```
+
+```
+Para ver en que Rama estoy
+git branch
+```
